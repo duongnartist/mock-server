@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "code": 200,
+        "message": "Success"
+    },
+    "data": [
+        {
+            "version": "1.0.0",
+            "configs": {
+                "show_ad": false,
+                "in_app_review": true
+            }
+        }
+    ]
+}

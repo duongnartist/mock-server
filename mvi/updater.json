@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "code": 200,
+        "message": "Success"
+    },
+    "data": {
+        "version": "1.0.0",
+        "force": false
+    }
+}
